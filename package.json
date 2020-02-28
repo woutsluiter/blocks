@@ -51,6 +51,7 @@
     "babel-plugin-styled-components": "^1.10.7",
     "bundlesize": "^0.15.3",
     "core-js": "2.6.10",
+    "dotenv": "^8.2.0",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.7.0",
     "enzyme-to-json": "^3.3.3",

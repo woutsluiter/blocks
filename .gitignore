@@ -16,3 +16,4 @@ packages/components/public
 reports
 yarn-error.log
 .env
+lerna-debug.log
