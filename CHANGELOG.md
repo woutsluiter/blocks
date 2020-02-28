@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.8](https://github.com/WoutSluiter/blocks/compare/v0.0.7...v0.0.8) (2020-02-28)
+
+
+### Bug Fixes
+
+* removed cusror properry ([b9ff6ea](https://github.com/WoutSluiter/blocks/commit/b9ff6ea8bce63bb5ee88a01b030af4c3e362d1de))
+
+
+
+
+
 ## [0.0.7](https://github.com/WoutSluiter/blocks/compare/v0.0.6...v0.0.7) (2020-02-28)
 
 
