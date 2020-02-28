@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.7](https://github.com/woutsluiter/blocks/compare/v0.0.6...v0.0.7) (2020-02-28)
+
+
+### Bug Fixes
+
+* add cursor css property ([418823e](https://github.com/woutsluiter/blocks/commit/418823e1a08f091013e2f0480cc225decc5d28ff))
+
+
+
+
+
 ## [0.0.6](https://github.com/woutsluiter/blocks/compare/v0.0.5...v0.0.6) (2020-02-28)
 
 
