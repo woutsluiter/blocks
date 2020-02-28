@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@1.0.0...@woutsluiter/blocks@2.0.0) (2020-02-28)
+
+
+### Bug Fixes
+
+* removed cursor css property ([#1](https://github.com/woutsluiter/blocks/issues/1)) ([ca9f679](https://github.com/woutsluiter/blocks/commit/ca9f679cd69885f7706746ccdc280fd939245d46))
+
+
+### Features
+
+* smaller Badge ([#3](https://github.com/woutsluiter/blocks/issues/3)) ([0d924f6](https://github.com/woutsluiter/blocks/commit/0d924f655748bb7327ce8ab538a4751cd6ea72e8))
+
+
+### BREAKING CHANGES
+
+* visually breaking
+
+
+
+
+
 # [1.0.0](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@0.2.1...@woutsluiter/blocks@1.0.0) (2020-02-28)
 
 
