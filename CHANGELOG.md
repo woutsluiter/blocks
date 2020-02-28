@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.14](https://github.com/WoutSluiter/blocks/compare/v0.0.13...v0.0.14) (2020-02-28)
+
+
+### Bug Fixes
+
+* add newProp to Badge ([cc3ffeb](https://github.com/WoutSluiter/blocks/commit/cc3ffeb9447cc932a33d1bc5f77926fb72d92f84))
+
+
+
+
+
 ## [0.0.13](https://github.com/WoutSluiter/blocks/compare/v0.0.12...v0.0.13) (2020-02-28)
 
 
