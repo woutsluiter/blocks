@@ -1,7 +1,8 @@
 {
     "version": "0.0.14",
     "npmClient": "yarn",
-    "useWorkspaces": true,
+    "useWorkspaces": true,,
+    "packages": ["packages/*"],
     "command": {
         "bootstrap": {
             "npmClientArgs": [
