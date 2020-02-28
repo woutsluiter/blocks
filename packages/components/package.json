@@ -1,6 +1,9 @@
 {
   "author": "Wout Sluiter",
   "license": "GPL-3.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/woutsluiter/blocks/issues"
   },
