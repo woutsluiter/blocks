@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@2.0.0...@woutsluiter/blocks@2.0.1) (2020-02-28)
+
+
+### Bug Fixes
+
+* **Badge:** set css cursor ([#5](https://github.com/woutsluiter/blocks/issues/5)) ([494ed5a](https://github.com/woutsluiter/blocks/commit/494ed5a6301f48662060a68ba51b167b827e3ee2))
+* **Badge:** uppercase text transform ([#6](https://github.com/woutsluiter/blocks/issues/6)) ([bf82050](https://github.com/woutsluiter/blocks/commit/bf82050a3e0deeb880bdc7aa240fb1f53568da75))
+* **Box:** change css cusror ([#4](https://github.com/woutsluiter/blocks/issues/4)) ([46b03b1](https://github.com/woutsluiter/blocks/commit/46b03b1013aa6fb5db65f4644d87aa0bd6542747))
+
+
+
+
+
 # [2.0.0](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@1.0.0...@woutsluiter/blocks@2.0.0) (2020-02-28)
 
 
