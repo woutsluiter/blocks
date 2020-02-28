@@ -9,7 +9,7 @@
   },
   "homepage": "https://github.com/woutsluiter/blocks#readme",
   "name": "@woutsluiter/blocks",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "blocks",
   "main": "dist/index.js",
   "module": "dist/es/index.js",
