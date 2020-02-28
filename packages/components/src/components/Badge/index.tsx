@@ -24,8 +24,8 @@ type VariantStyleType = {
 const Badge = styled.div<PropsType>`
     display: inline-block;
     box-sizing: border-box;
-    min-width: 18px;
-    min-height: 18px;
+    min-width: 20px;
+    min-height: 20px;
     padding: 3px 6px;
     border-radius: 9px;
     ${({ theme, severity }): string => {
