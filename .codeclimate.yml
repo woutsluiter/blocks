@@ -1,0 +1,56 @@
+version: 2
+checks:
+  argument-count:
+    config:
+      threshold: 4
+  complex-logic:
+    config:
+      threshold: 4
+  file-lines:
+    config:
+      threshold: 350
+  method-complexity:
+    config:
+      threshold: 8
+  method-count:
+    config:
+      threshold: 20
+  method-lines:
+    config:
+      threshold: 80
+  method-complexity:
+    config:
+      threshold: 8
+  similar-code:
+    config:
+      threshold: 133
+  nested-control-flow:
+    config:
+      threshold: 4
+  return-statements:
+    config:
+      threshold: 4
+exclude_patterns:
+    - 'config/'
+    - 'db/'
+    - 'dist/'
+    - 'features/'
+    - '**/node_modules/'
+    - 'script/'
+    - '**/spec/'
+    - '**/test/'
+    - '**/tests/'
+    - 'Tests/'
+    - '**/vendor/'
+    - '**/*_test.go'
+    - '**/*.d.ts'
+    - '**/*.style.tsx'
+    - '**/style.tsx'
+    - '**/*.theme.ts'
+    - '**/*.test.ts'
+    - '**/test.ts'
+    - '**/*.test.tsx'
+    - '**/test.tsx'
+    - '**/*.story.tsx'
+    - '**/story.tsx'
+    - '**/ThemeType.ts'

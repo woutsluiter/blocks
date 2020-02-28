@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "name": "woutsluiter/blocks",
+    "build": {
+        "env": {
+            "NPM_TOKEN": "@npm_token",
+            "BUILDING_FOR_NOW": "true"
+        }
+    },
+    "github": {
+        "silent": true
+    },
+    "cleanUrls": true
+}

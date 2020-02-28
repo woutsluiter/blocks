@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+.vscode
+/.stfolder
+/.vs
+/.phpstorm_helpers
+node_modules
+.next
+reports
+dist
+/lib
+/.out
+.cache
+packages/components/docs/pages/generated
+packages/components/public
+reports
+yarn-error.log
