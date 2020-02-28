@@ -39,6 +39,7 @@ const Badge = styled.div<PropsType>`
     }};
     font-size: 12px;
     line-height: 1;
+    text-transform: uppercase;
     color: ${({ theme }): string => theme.Badge.severity.error.color};
     white-space: nowrap;
     cursor: default;
