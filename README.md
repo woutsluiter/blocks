@@ -8,12 +8,6 @@ Some nice features:
 - Fully typed
 - Testable via `data-testid` attributes
 
-## Try it out!
-
-[**Storybook**](https://woutsluiter.github.io/blocks)
-
-[**Playground**](https://codesandbox.io/s/woutsluiterblocks-playground-pymwz)
-
 ## Installation
 
 Install Blocks using: `npm install @woutsluiter/blocks`.
@@ -49,7 +43,7 @@ import YourApp from './App';
 
 const themeObject: ThemeType = {
     // See ThemeType for all theme options
-    // Example: https://github.com/Wout Sluiter/blocks/blob/master/src/themes/MosTheme/MosTheme.theme.ts
+    // Example: https://github.com/WoutSluiter/blocks/blob/master/src/themes/MosTheme/MosTheme.theme.ts
 }
 
 <CustomTheme theme={themeObject}>
@@ -60,7 +54,7 @@ const themeObject: ThemeType = {
 ## Contributing
 
 Feel free to help us develop Blocks! If you have a new feature suggestion please create an issue with the label `RFC` so we can discuss the desired solution. For more info please read our 
-[guidelines](https://github.com/Wout Sluiter/blocks/blob/master/CONTRIBUTING.md).
+[guidelines](https://github.com/WoutSluiter/blocks/blob/master/CONTRIBUTING.md).
 
 ## Development
 - Clone the repo
