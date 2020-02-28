@@ -1,11 +1,14 @@
 {
-    "version": "independent",
+    "version": "0.0.14",
     "npmClient": "yarn",
     "useWorkspaces": true,
-    "packages": [
-        "packages/*"
-    ],
+    "packages": ["packages/*"],
     "command": {
+        "publish": {
+            "ignoreChanges": ["ignored-file"],
+            "message": "chore(release): publish",
+            "conventionalCommits": true
+        },
         "bootstrap": {
             "npmClientArgs": [
                 "--frozen-lockfile"
