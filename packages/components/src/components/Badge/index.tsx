@@ -4,6 +4,7 @@ import ThemeTools from '../../themes/CustomTheme/ThemeTools';
 
 type PropsType = {
     severity?: SeverityType;
+    newProp1?: string;
 };
 
 type BadgeThemeType = {
