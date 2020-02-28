@@ -84,7 +84,7 @@
   "peerDependencies": {},
   "scripts": {
     "build": "lerna run build",
-    "release": "GH_TOKEN=e37d0c5a4b9f1b994d58d7af3416ce33233f1aff lerna publish --conventional-commits --create-release github",
+    "release": "GH_TOKEN=968e854012a019fb03a5047bd91f45b753239ab9 lerna publish --conventional-commits --create-release github",
     "now-build": "cd packages/components && MODE='static' build-storybook -o ../../public -s .storybook/public",
     "cs-fix": "prettier --write ./packages/**/src/**/*.{ts,tsx}",
     "cs": "prettier --list-different ./packages/**/src/**/*.{ts,tsx}",
