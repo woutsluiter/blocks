@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.9](https://github.com/WoutSluiter/blocks/compare/v0.0.8...v0.0.9) (2020-02-28)
+
+
+### Bug Fixes
+
+* add cursor css property ([678f18c](https://github.com/WoutSluiter/blocks/commit/678f18c4c1a5505b8fdae82a0d0a19994015add9))
+
+
+
+
+
 ## [0.0.8](https://github.com/WoutSluiter/blocks/compare/v0.0.7...v0.0.8) (2020-02-28)
 
 
