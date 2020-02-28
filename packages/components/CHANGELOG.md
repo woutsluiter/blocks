@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@0.2.1...@woutsluiter/blocks@1.0.0) (2020-02-28)
+
+
+### Features
+
+* even BIGGER Badges ([1c93cef](https://github.com/woutsluiter/blocks/commit/1c93cefc526b4f49132f887c11c4c02f358c7fcd))
+
+
+### BREAKING CHANGES
+
+* visual
+
+
+
+
+
 ## [0.2.1](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@0.2.0...@woutsluiter/blocks@0.2.1) (2020-02-28)
 
 **Note:** Version bump only for package @woutsluiter/blocks
