@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.10](https://github.com/woutsluiter/blocks/compare/v0.0.9...v0.0.10) (2020-02-28)
+
+
+### Bug Fixes
+
+* removed cusror property ([b6ebfb8](https://github.com/woutsluiter/blocks/commit/b6ebfb8324287ca07e9674f4173aeafa4f8d85e6))
+
+
+
+
+
 ## [0.0.9](https://github.com/woutsluiter/blocks/compare/v0.0.8...v0.0.9) (2020-02-28)
 
 
