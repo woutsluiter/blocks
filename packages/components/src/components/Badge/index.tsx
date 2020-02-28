@@ -41,6 +41,7 @@ const Badge = styled.div<PropsType>`
     line-height: 1;
     color: ${({ theme }): string => theme.Badge.severity.error.color};
     white-space: nowrap;
+    cursor: default;
 `;
 
 const composeBadgeTheme = (themeTools: ThemeTools): BadgeThemeType => {
