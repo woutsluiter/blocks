@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/woutsluiter/blocks/compare/v0.0.14...v0.1.0) (2020-02-28)
+
+
+### Features
+
+* add newProp to Badge ([35359b9](https://github.com/woutsluiter/blocks/commit/35359b92d03bfc92f2d08410257a0f09e7ccf6b0))
+
+
+
+
+
 ## [0.0.14](https://github.com/woutsluiter/blocks/compare/v0.0.13...v0.0.14) (2020-02-28)
 
 
