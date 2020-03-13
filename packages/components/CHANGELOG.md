@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@2.0.2...@woutsluiter/blocks@3.0.0) (2020-03-13)
+
+
+### Features
+
+* **Badge:** add newProp1 ([#13](https://github.com/woutsluiter/blocks/issues/13)) ([b332f21](https://github.com/woutsluiter/blocks/commit/b332f21bd5ee3fbde030300111bba8bb33effcfc))
+* BIGGER Badges ([#9](https://github.com/woutsluiter/blocks/issues/9)) ([84647ce](https://github.com/woutsluiter/blocks/commit/84647cee125a64fe61f2085fb2a68e3c6e68638c))
+
+
+### BREAKING CHANGES
+
+* **Badge:** - testing multiline BC note 1
+- testing multiline BC note 2
+* visually bigger Badge
+* testing multiple BC notes
+
+
+
+
+
 ## [2.0.2](https://github.com/woutsluiter/blocks/compare/@woutsluiter/blocks@2.0.1...@woutsluiter/blocks@2.0.2) (2020-02-28)
 
 
