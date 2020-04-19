@@ -28,6 +28,7 @@ const Badge = styled.div<PropsType>`
     min-width: 24px;
     min-height: 24px;
     padding: 3px 6px;
+    margin: 0;
     border-radius: 9px;
     ${({ theme, severity }): string => {
         const badgeSeverity = severity === undefined ? 'error' : severity;
